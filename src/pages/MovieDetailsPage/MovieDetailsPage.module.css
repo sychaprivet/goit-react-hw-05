@@ -1,0 +1,26 @@
+.movieInfo {
+  display: flex;
+}
+
+.imgMovie {
+  width: 250px;
+  margin: 20px;
+}
+
+.btn {
+  margin-left: 20px;
+  border-radius: 5px;
+  height: 30px;
+  cursor: pointer;
+}
+
+.item {
+  font-weight: 500;
+}
+
+.review {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin-left: 20px;
+}
