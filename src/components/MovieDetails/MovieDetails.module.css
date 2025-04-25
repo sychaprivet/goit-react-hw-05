@@ -1,0 +1,17 @@
+.MovieDetailsWrapper{
+    display: flex;
+    gap: 15px;
+}
+
+.Additional{
+    padding: 10px;
+}
+
+.CommonInformation{
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.AdditionalList{
+    margin-top: 5px;
+}
